@@ -10,4 +10,4 @@ Trata-se de um modelo PSD para manipulação de imagem.
 
 <hr>
 <p>Este é um modelo de manipulação de imagem criado no Phoroshop CS5</p>
-<img src="https://s26.postimg.org/qpbs1cc9l/cs2.jpg" width="450" height="300">
+<img src="https://s26.postimg.cc/qpbs1cc9l/cs2.jpg" width="450" height="300">
